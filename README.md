@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abdulrehhhhman/Leetcode/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/abdulrehhhhman/Leetcode/tree/master/0402-remove-k-digits) |
 ## Stack
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/abdulrehhhhman/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abdulrehhhhman/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abdulrehhhhman/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/abdulrehhhhman/Leetcode/tree/master/0402-remove-k-digits) |
 ## Design
 |  |
 | ------- |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdulrehhhhman/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/abdulrehhhhman/Leetcode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/abdulrehhhhman/Leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
