@@ -7,17 +7,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abdulrehhhhman/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdulrehhhhman/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/abdulrehhhhman/Leetcode/tree/master/0283-move-zeroes) |
+| [0658-find-k-closest-elements](https://github.com/abdulrehhhhman/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/abdulrehhhhman/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/abdulrehhhhman/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abdulrehhhhman/Leetcode/tree/master/0283-move-zeroes) |
+| [0658-find-k-closest-elements](https://github.com/abdulrehhhhman/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/abdulrehhhhman/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdulrehhhhman/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/abdulrehhhhman/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/abdulrehhhhman/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdulrehhhhman/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/abdulrehhhhman/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
@@ -67,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/abdulrehhhhman/Leetcode/tree/master/0402-remove-k-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/abdulrehhhhman/Leetcode/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/abdulrehhhhman/Leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
